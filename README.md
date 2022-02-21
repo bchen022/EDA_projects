@@ -12,3 +12,5 @@ https://medium.com/@boyangchen02/tutorial-exploratory-data-analysis-of-reddit-se
 
 THe report associated with this proejct can be found on Medium.
 https://medium.com/@boyangchen02/level-difficulty-in-candy-crush-saga-datacamp-data-science-project-28b979c402d7
+
+3. Image Classification using Convoluted Neural Networks (Keras) - Deep Learning Project
