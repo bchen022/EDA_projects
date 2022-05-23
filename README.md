@@ -20,5 +20,10 @@ https://medium.com/@boyangchen02/vehicle-detection-using-convoluted-neural-netwo
 
 4. Customer Churn Prediction - Classification project.
 
-THe article associated with this project can be found on Medium.
+The article associated with this project can be found on Medium.
 https://medium.com/@boyangchen02/customer-churn-prediction-using-machine-learning-classification-algorithms-bbfbf63002d7
+
+5. Heart Failure Survival Analysis 
+
+The article associated with this project can be found on Medium.
+https://medium.com/@boyangchen02/time-series-survival-analysis-implementation-in-python-f31c43b3099d
