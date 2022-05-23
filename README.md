@@ -17,3 +17,8 @@ https://medium.com/@boyangchen02/level-difficulty-in-candy-crush-saga-datacamp-d
 
 The article associated with this project can be found on Medium.
 https://medium.com/@boyangchen02/vehicle-detection-using-convoluted-neural-networks-keras-7fca55f8eb9b
+
+4. Customer Churn Prediction - Classification project.
+
+THe article associated with this project can be found on Medium.
+https://medium.com/@boyangchen02/customer-churn-prediction-using-machine-learning-classification-algorithms-bbfbf63002d7
